@@ -1,0 +1,10 @@
+
+
+Data access:Bigdata(\\131.230.132.71):\CNN\Data\ClipedSample_4Areas
+
+
+CNNnew4Area.py: 4 areas, 1->train; other 3->test
+
+DataNE_5CRaw.py: read DEM and Aerial photos as 5 channels, raw data
+
+DataNE_Norm_index.py: calculated MaxMin Normalized data and indexes (NDVI,NDWI) of 5 channels data
